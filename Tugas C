@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+
+    printf("Hello my name is Kenny Dharma \n I like playing video games");
+
+    return 0;
+}
